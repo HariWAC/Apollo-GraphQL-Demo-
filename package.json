@@ -1,0 +1,42 @@
+{
+  "name": "graphql_appolo",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.12.9",
+    "@react-oauth/google": "^0.12.1",
+    "bootstrap": "^5.3.3",
+    "googleapis": "^144.0.0",
+    "graphql": "^16.10.0",
+    "html-react-parser": "^5.2.2",
+    "informed": "^4.62.0",
+    "jwt-decode": "^4.0.0",
+    "lucide-react": "^0.474.0",
+    "react": "^18.3.1",
+    "react-bootstrap": "^2.10.9",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^7.1.5",
+    "react-social-login-buttons": "^4.1.0",
+    "react-toastify": "^11.0.3",
+    "reactjs-social-login": "^2.6.3"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.13.0",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.3",
+    "eslint": "^9.13.0",
+    "eslint-plugin-react": "^7.37.2",
+    "eslint-plugin-react-hooks": "^5.0.0",
+    "eslint-plugin-react-refresh": "^0.4.14",
+    "globals": "^15.11.0",
+    "vite": "^5.4.10"
+  }
+}
