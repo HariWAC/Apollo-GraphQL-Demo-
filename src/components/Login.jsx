@@ -7,6 +7,8 @@ import { useNavigate } from 'react-router-dom';
 import 'react-toastify/dist/ReactToastify.css';
 import '../assets/Login.css';
 
+//made the change in the ui
+
 const Login = () => {
   const [profile, setProfile] = useState(null);
   const [provider, setProvider] = useState(null);
